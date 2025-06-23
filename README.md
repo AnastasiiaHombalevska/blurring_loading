@@ -1,7 +1,11 @@
 # Name
 
 ## Skills Demonstrated
-- 
+- JavaScript DOM manipulation
+- CSS filter effects (blur)
+- Dynamic text updates
+- Timing with setInterval
+- Linear interpolation (scaling values between ranges)
 
 ### Technologies Used:
 - HTML5
@@ -9,8 +13,11 @@
 - Vanilla JavaScript
 
 ### Features:
--
+- Loading text that updates from 0% to 100%
+- Smooth fade-out effect for text
+- Background image transitions from blurry to clear
+- Custom scaling function for animation timing
 
 ### Links
 
-- Live Site URL: [@GitHub]()
+- Live Site URL: [@Netlify](https://app.netlify.com/projects/blurringloading/overview)
