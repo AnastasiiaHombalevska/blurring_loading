@@ -1,4 +1,4 @@
-# Name
+# Blurring loading
 
 ## Skills Demonstrated
 - JavaScript DOM manipulation
@@ -20,4 +20,4 @@
 
 ### Links
 
-- Live Site URL: [@Netlify](https://app.netlify.com/projects/blurringloading/overview)
+- Live Site URL: [@Netlify](https://blurringloading.netlify.app/)
